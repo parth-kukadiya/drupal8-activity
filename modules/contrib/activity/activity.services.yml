@@ -1,0 +1,3 @@
+services:
+  activity.display_nodes:
+    class: Drupal\activity\NodeDisplay
